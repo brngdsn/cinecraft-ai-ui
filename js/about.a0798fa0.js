@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcinecraft_ai_ui_v2"]=self["webpackChunkcinecraft_ai_ui_v2"]||[]).push([[594],{603:function(n,u,a){a.r(u),a.d(u,{default:function(){return l}});var t=a(6768);const c={class:"about"},e=(0,t.Lk)("h1",null,"This is an about page",-1),i=[e];function r(n,u){return(0,t.uX)(),(0,t.CE)("div",c,i)}var s=a(1241);const f={},o=(0,s.A)(f,[["render",r]]);var l=o}}]);
+//# sourceMappingURL=about.a0798fa0.js.map
